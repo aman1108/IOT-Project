@@ -22,6 +22,7 @@ Covid 19:
 
 We had made Covid-19 dashboard in powerBi We had used various graph for that. You will nedd PowerBi to see this dashboard.
 
+
 Note: Datasets used in both the projects are modified as per requirements. So it might not be the precise datasets.
 
 Refrences:
